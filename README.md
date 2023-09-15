@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 ## I am Hassitha Eranaga
-# 💫 About Me:
+## 💫 About Me:
 🔭 Currently, I am working on a web development project as a freelancer. <br>👯 I am interested in collaborating on a new project. <br>🌱 I am currently learning about Machine Learning and Artificial Intelligence. <br>💬 Feel free to ask me about anything. <br>⚡ I enjoy playing video games.
 
 
