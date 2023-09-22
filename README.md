@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I am Hassitha Eranaga
 ## 💫 About Me:
-🔭 Currently, I am working on a web development project as a freelancer. <br>👯 I am interested in collaborating on a new project. <br>🌱 I am currently learning about Machine Learning and Artificial Intelligence. <br>💬 Feel free to ask me about anything. <br>⚡ I enjoy playing video games.
+🔮 I am a passionate Full Stack Developer-in-Training 💻<br>🌟 I am exploring the World of Code & Creativity 🚀<br>🌱 I am dedicated to Learning and Growing Every Day 📚<br>🌐 I am open to Exciting Collaborations 🤝<br>🎮 I am a Gaming Aficionado in my Free Time 🕹️<br>
 
 
 # 💻 Tech Stack:
@@ -11,8 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HasithX&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HasithX&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HasithX&icon=1&color=12)](https://visitcount.itsvg.in)
