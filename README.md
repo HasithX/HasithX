@@ -1,5 +1,5 @@
-## Hi there 👋
-## I am Hassitha Eranaga
+### Hi there 👋
+### I am Hassitha Eranaga
 ## 💫 About Me:
 🔮 I am a passionate Full Stack Developer-in-Training 💻<br>🌟 I am exploring the World of Code & Creativity 🚀<br>🌱 I am dedicated to Learning and Growing Every Day 📚<br>🌐 I am open to Exciting Collaborations 🤝<br>🎮 I am a Gaming Aficionado in my Free Time 🕹️<br>
 
