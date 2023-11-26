@@ -17,7 +17,7 @@ You can call me Hass or Hasith. I'm a self-taught Full Stack Developer and an as
 
 ## 📫 How to reach me
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/hasitha-eranga-6b6536288/) or send me an  [email](eranga.hasitha04@gmail.com)
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/hasitha-eranga-6b6536288/) or send me an email at eranga.hasitha04@gmail.com
 
 ## ⚡ Fun fact
 
