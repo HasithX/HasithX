@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Hasitha Eranga!
+# Hey there👋 I'm Hasitha Eranga!
 
-You can call me Hass or Hasith. I'm a self-taught Full Stack Developer and an aspiring AI Engineer from Sri Lanka. I'm passionate about coding, learning new technologies, and solving real-world problems.
+Welcome to my realm of code and innovation! You can call me Hass. I'm a self-taught Full Stack Developer and an aspiring AI Engineer from Sri Lanka. I'm passionate about coding, learning new technologies, and solving real-world problems.
 
 ## 🛠️ My Skills
 
@@ -17,7 +17,10 @@ You can call me Hass or Hasith. I'm a self-taught Full Stack Developer and an as
 
 ## 📫 How to reach me
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/hasitha-eranga-6b6536288/) or send me an email at eranga.hasitha04@gmail.com
+I'm always open to connecting with fellow tech enthusiasts and sharing our passion for technology. Let's embark on this journey of learning and innovation together! You can reach me on:
+
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hasitha-eranga-6b6536288/)
+- **Email:** eranga.hasitha04@gmail.com
 
 ## ⚡ Fun fact
 
